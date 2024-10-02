@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  <p> MSc in Human-Computer Interaction at University of Nottingham </p> <p> BA in Psychology at New York University </p> <p> Minor in Public Policy and Management </p>
+subtitle:  MSc Human-Computer Interaction at University of Nottingham, BA Psychology at New York University
 
 profile:
   align: right
