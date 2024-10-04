@@ -2,23 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: MSc Human-Computer Interaction at University of Nottingham, BA Psychology at New York University
+subtitle: UX Researcher
 
 profile:
     align: right
     image: temp.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
-        <p>New York, NY</p>
+        <p>MSc, Human-Computer Interaction</p>
+        <p>University of Nottingham</p>
+        <p>BA, Psychology</p>
+        <p>New York University</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-MSc'24 in Human Computer Interaction at the University of Nottingham. Previously a consultant for the Beacon Group and a Research Analyst for Accenture Strategy with 2 years of professional experience. Expertise in AI-Consumer trust, user experience, growth strategy, market sizing, client-facing communication, and competitive strategy and analysis.
-
-I am a mixed-methods researcher with projects ranging from AI-Consumer Trust to 3D Surgical Medical Device Opportunity Assessment. This website displays case studies of some of my previous work as well as well as an overview of my dissertation.
+I am a mixed-methods researcher with projects ranging from AI-Consumer Trust to 3D Surgical Medical Device Opportunity Assessment. I graduated with a MSc in Human Computer Interaction at the University in 2024 and a BA in Psychology at New York University in 2021. I have worked as a Consultant for the Beacon Group as well as a Research Analyst for Accenture for 2 years. Additionally, I have experience in user research, growth strategy, market sizing, client-facing communication, and competitive strategy and analysis. This website displays case studies of some of my previous work as well as well as an overview of my dissertation.
 
 MSc Dissertation: "Consumer Perceptions, Trust, and Implications on User Assisted AI Journalism"
 

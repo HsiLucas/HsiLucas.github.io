@@ -1,203 +1,370 @@
 {
+    "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
     "basics": {
-        "name": "Albert Einstein",
-        "label": "Scientist",
-        "image": "",
-        "email": "albert@einstein.de",
-        "phone": "(912) 123-4567",
-        "url": "https://alshedivat.github.io/al-folio/",
-        "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-        "location": {
-            "address": "2712 Broadway St",
-            "postalCode": "CA 94115",
-            "city": "San Francisco",
-            "countryCode": "US",
-            "region": "California"
-        },
-        "profiles": [
-            {
-                "network": "Twitter",
-                "username": "AlbertEinstein",
-                "url": "https://twitter.com/AlbertEinstein"
-            }
-        ]
+      "name": "Lucas Hsing",
+      "label": "MSc'24 in Human-Computer Interaction at the University of Nottingham",
+      "image": "",
+      "email": "hsinglucas@gmail.com",
+      "phone": "",
+      "url": "",
+      "summary": "MSc'24 in Human Computer Interaction at the University of Nottingham. Previously a consultant for the Beacon Group and a Research Analyst for Accenture Strategy with 2 years of professional experience. Expertise in AI-Consumer trust, user experience, growth strategy, market sizing, client-facing communication, and competitive strategy and analysis.\n\nMSc Dissertation: Consumer Perceptions, Trust, and Implications on User Assisted AI Journalism\n\nSelected Notable Projects:\nSurgical Glaucoma Opportunity Asssessment: Participated in research activities to survey the global landscape of glaucoma surgical and drug/device therapies for Fortune 500 med tech client. Sozed, assessed, and prioritized the most attractive treatment segments, and collaborated with client team to select key therapies/targets that aligned with client's portfolio, R&D capabilities, and strategic goals.\n\nIn-Memory Computing Market Analysis:\nEngaged in research evaluating the potential market for a new hardware-based IMC product. Conducted customer and competitor interviews to identify customers' desire for IMC solutions, potential for competitor competitive technology, and overall indsutry priorities. \n\nIoTG Market Modeling:\nIdentified system architecture, attach, install, refresh, and growth rates for hundreds of system groups across the healthcare, biopharmaceutical, industrial, and energy segments. \n\nPayer Engagement Strategy:\nRevamped leading pharmaceutical company's payer engagement strategy as it increasingly moves from primary case to specialty care, including engagement around a pipeline-stage digital therapy asset. \n\n3D Surgical Medical Device Opportunity Assessment: \nIdentified and prioritized go-to-mariket strategy for a Fortune 500 medical device company in the 3D surgical space, including conducting competitive analysis, overviewing market landscape, and providing market sizing and forecasting tools.",
+      "location": {
+        "countryCode": "US",
+        "address": "United States"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "lucas-hsing",
+          "url": "https://www.linkedin.com/in/lucas-hsing/"
+        }
+      ]
     },
     "work": [
-        {
-            "name": "Institute for Advanced Study, Princeton University",
-            "position": "Professor of Theoretical Physics",
-            "url": "https://example.com",
-            "startDate": "1933-01-01",
-            "endDate": "1955-01-01",
-            "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-            "highlights": ["Relativity"]
-        }
+      {
+        "name": "Accenture Strategy",
+        "position": "Research Analyst",
+        "startDate": "2023-01-31",
+        "endDate": "2023-08-31",
+        "highlights": [],
+        "summary": "• Sized, assessed, and prioritized treatment segments to survey the global landscape of glaucoma surgical and drug/device therapies for a Fortune 500 med tech client and collaborated with the client team to select key therapies/targets that aligned with the client’s portfolio, R&D capabilities, and strategic goals\n\n• Identified and prioritized go-to-market strategy for a Fortune 500 med tech company in the 3D surgical space, including conducting competitive analysis, overviewing the market landscape, and providing market sizing and forecasting in both the United States and Japan\n\n• Conducted customer and competitor interviews to identify customers’ desire for a hardware-based IMC solution, potential for competitor competitive technology, and industry priorities for a Fortune 100 client\n\n• Identified system architecture, attach, install, refresh, and growth rates for hundreds of system groups across the healthcare, industrial, and energy segments for a global market model\n\n• Revamped a leading pharmaceutical company’s payer engagement strategy as it moved from primary care to specialty care, including engagement around a pipeline-stage therapy asset\n\n• Created and delivered client presentations for Fortune 100 companies\n\n• Sought out potential clients and reached out for business development for the company’s Technology Practice",
+        "url": "https://www.linkedin.com/company/88415878",
+        "location": "New York, New York, United States"
+      },
+      {
+        "name": "The Beacon Group, Part of Accenture",
+        "position": "Consultant",
+        "startDate": "2021-10-31",
+        "endDate": "2022-12-31",
+        "highlights": [],
+        "summary": "• Research and analysis via primary and secondary research to provide support and engagement\nduring client presentations across Technology, Healthcare, Industrial, and Market Modeling\npractices\n\n• Business development for the company in the Technology Practice\n\n• Use of analytical tools, like excel, and execution on project frameworks",
+        "url": "https://www.linkedin.com/company/166351",
+        "location": "Portland, Maine"
+      },
+      {
+        "name": "United States Fencing Association",
+        "position": "Certified Fencing Referee",
+        "startDate": "2017-07-31",
+        "endDate": "2021-05-31",
+        "highlights": [],
+        "summary": "• Assist with the regulation of competition rules by communicating with competitors and courteously resolving issues \n\n• Referee assigned fencing bouts and make unbiased decisions",
+        "url": "",
+        "location": "United States"
+      },
+      {
+        "name": "Asian American Bar Association of New York",
+        "position": "Legal Intern",
+        "startDate": "2019-06-30",
+        "endDate": "2019-08-31",
+        "highlights": [],
+        "summary": "• Assist in organizing the 2019 NE Regional/Fall Conference with 23 programs, and over 100 speakers\n\n• Assist in the planning, organization, implementation and promotion of conferences, panels,\nCLE classes and other AABANY sponsored events\n\n• Assist in updating the AABANY calendar, AABANY Blog, as well as drafting press releases\n\n• Attend and participate in AABANY Board meetings, conferences, panels, CLE classes and\nother AABANY sponsored events \n\n• General assistance to the officers and directors of AABANY, including administrative matters,\nfundraising, managing the website, the social-network sites, and the membership database",
+        "url": "https://www.linkedin.com/company/2075242",
+        "location": "New York, New York"
+      },
+      {
+        "name": "New York University",
+        "position": "Sophmore Cohort President",
+        "startDate": "2018-09-30",
+        "endDate": "2019-03-31",
+        "highlights": [],
+        "summary": "• Plan community-building activities for Cohort 37-40 and the entire sophomore class.\n\n• Manage the budget and schedule events for the College Cohort Program.\n\n• Serve as a resource for incoming transfer students.",
+        "url": "https://www.linkedin.com/company/3159",
+        "location": "New York, New York"
+      }
     ],
     "volunteer": [
-        {
-            "organization": "People's Climate March",
-            "location": "Zurich, Switzerland",
-            "position": "Lead Organizer",
-            "url": "https://example.com",
-            "startDate": "2014-04-01",
-            "endDate": "2015-07-01",
-            "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-            "highlights": [
-                "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.",
-                "Men of the year 2014 by Time magazine"
-            ]
-        }
+      {
+        "organization": "Cross-Cultural Solutions",
+        "position": "Volunteer",
+        "startDate": "2015-06-30",
+        "endDate": "2015-08-31",
+        "summary": "• Contributed aid to a public school by providing restoration of facilities and teaching assistance in Cartago, Costa Rica.\n• Assisted with activities at a local orphanage by playing interactive games with the residents.\n",
+        "highlights": [],
+        "url": "https://www.linkedin.com/company/35814"
+      }
     ],
     "education": [
-        {
-            "institution": "University of Zurich, Zurich, Switzerland",
-            "location": "Zurich, Switzerland",
-            "url": "https://www.uzh.ch/",
-            "area": "Software Development",
-            "studyType": "PhD",
-            "startDate": "1905-01-01",
-            "endDate": "1905-01-01",
-            "score": "10",
-            "courses": ["Theory of Relativity"]
-        }
+      {
+        "institution": "University of Nottingham",
+        "area": "Human Computer Interaction",
+        "studyType": "Master of Science - MS",
+        "startDate": "2023-09-30",
+        "endDate": "2024-09-30",
+        "score": "Expected GPA - 3.8 / First Class Honours",
+        "courses": [
+          "null - Cognitive Ergonomics",
+          "null - Design Ethnography",
+          "null - Human-Computer Systems"
+        ]
+      },
+      {
+        "institution": "New York University",
+        "area": "Psychology",
+        "studyType": "Bachelor's degree",
+        "startDate": "2017-09-30",
+        "endDate": "2021-05-31",
+        "score": "Major GPA - 3.8",
+        "courses": [
+          " - Cognitive Neuroscience",
+          "null - Intro to Computer Programming",
+          "null - Intermediate Japanese I",
+          "null - Cognition",
+          "null - Advanced Psychological Statistics ",
+          "null - Clinical Psychology",
+          "null - Abnormal Psychology"
+        ]
+      },
+      {
+        "institution": "The Masters School",
+        "area": "",
+        "studyType": "High School Diploma",
+        "startDate": "2013-12-31",
+        "endDate": "2017-12-31",
+        "score": "",
+        "courses": []
+      }
     ],
-    "awards": [
-        {
-            "title": "Nobel Prize in Physics",
-            "date": "1921-11-01",
-            "awarder": "Royal Swedish Academy of Sciences",
-            "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-            "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-        }
-    ],
-    "certificates": [
-        {
-            "name": "Machine Learning",
-            "date": "2018-01-01",
-            "issuer": "Stanford University",
-            "url": "https://example.com",
-            "icon": "fa-solid fa-location-dot"
-        },
-        {
-            "name": "Quantum Computing",
-            "date": "2018-01-01",
-            "issuer": "Stanford University",
-            "url": "https://example.com",
-            "icon": "fa-solid fa-tag"
-        },
-        {
-            "name": "Quantum Information",
-            "date": "2018-01-01",
-            "issuer": "Stanford University",
-            "url": "https://example.com",
-            "icon": "fa-solid fa-envelope"
-        },
-        {
-            "name": "Quantum Cryptography",
-            "date": "2018-01-01",
-            "issuer": "Stanford University",
-            "url": "https://example.com",
-            "icon": "fa-solid fa-hashtag"
-        },
-        {
-            "name": "Quantum Communication",
-            "date": "2018-01-01",
-            "issuer": "Stanford University",
-            "url": "https://example.com",
-            "icon": "fa-solid fa-calendar"
-        },
-        {
-            "name": "Quantum Teleportation",
-            "date": "2018-01-01",
-            "issuer": "Stanford University",
-            "url": "https://example.com",
-            "icon": "fa-solid fa-clipboard-check"
-        }
-    ],
-    "publications": [
-        {
-            "name": "Zur Elektrody/namik bewegter Körper",
-            "publisher": "Annalen der Physik",
-            "releaseDate": "1905-06-30",
-            "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-            "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-        },
-        {
-            "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-            "publisher": "Annalen der Physik",
-            "releaseDate": "1905-03-18",
-            "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-            "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-        },
-        {
-            "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-            "publisher": "Annalen der Physik",
-            "releaseDate": "1916-03-20",
-            "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-            "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-        }
-    ],
+    "awards": [],
+    "certificates": [],
+    "publications": [],
     "skills": [
-        {
-            "name": "Physics",
-            "level": "Master",
-            "icon": "fa-solid fa-hashtag",
-            "keywords": [
-                "Quantum Mechanics",
-                "Quantum Computing",
-                "Quantum Information",
-                "Quantum Cryptography",
-                "Quantum Communication",
-                "Quantum Teleportation"
-            ]
-        }
+      {
+        "name": "User Experience (UX)",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Growth Strategies",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Artificial Intelligence (AI)",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Human Computer Interaction",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Editing",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Presentation Skills",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Java",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Microsoft Word",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Customer Relationship Management (CRM)",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Microsoft Excel",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Event Management",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Python (Programming Language)",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Working With Clients",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Business Development",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Functional Programming",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Client Relations",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Intercollegiate Athletics",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Primary Research",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Object-Oriented Programming (OOP)",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Microsoft Office",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Volunteering",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Management Consulting",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Programming",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "WordPress",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Cognitive Neuroscience",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Human Factors",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Strategy",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Consulting",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Emergency First Response Instruction",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Public Policy",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Leadership",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Project Management",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Psychology",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Microsoft PowerPoint",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Event Planning",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Life Sciences",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Management",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Drafting Press Releases",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Analytical Skills",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Blogging",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Strategic Consulting",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Japanese",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Statistics",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Presentations",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Website Administration",
+        "level": "",
+        "keywords": []
+      }
     ],
     "languages": [
-        {
-            "language": "German",
-            "fluency": "Native speaker",
-            "icon": ""
-        },
-        {
-            "language": "English",
-            "fluency": "Fluent",
-            "icon": ""
-        }
+      {
+        "language": "English",
+        "fluency": "Native Speaker"
+      }
     ],
-    "interests": [
-        {
-            "name": "Physics",
-            "icon": "fa-solid fa-tag",
-            "keywords": [
-                "Quantum Mechanics",
-                "Quantum Computing",
-                "Quantum Information",
-                "Quantum Cryptography",
-                "Quantum Communication",
-                "Quantum Teleportation"
-            ]
-        }
-    ],
-    "references": [
-        {
-            "name": "Professor John Doe",
-            "icon": "fa-solid fa-laptop",
-            "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-        },
-        {
-            "name": "Professor John Doe",
-            "icon": "fa-solid fa-thumbtack",
-            "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-        }
-    ],
-    "projects": [
-        {
-            "name": "Quantum Computing",
-            "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-            "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-            "startDate": "2018-01-01",
-            "endDate": "2018-01-01",
-            "url": "https://example.com"
-        }
-    ]
-}
+    "interests": [],
+    "references": [],
+    "projects": [],
+    "meta": {
+      "version": "v1.0.0",
+      "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+    }
+  }
