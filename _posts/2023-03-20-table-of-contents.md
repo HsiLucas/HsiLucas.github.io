@@ -8,7 +8,7 @@ categories: sample-posts
 giscus_comments: true
 related_posts: false
 toc:
-  beginning: true
+    beginning: true
 ---
 
 This post shows how to add a table of contents in the beginning of the post.
@@ -19,7 +19,7 @@ To add a table of contents to a post, simply add
 
 ```yml
 toc:
-  beginning: true
+    beginning: true
 ```
 
 to the front matter of the post. The table of contents will be automatically generated from the headings in the post.

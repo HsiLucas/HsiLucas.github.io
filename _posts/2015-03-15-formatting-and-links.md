@@ -11,18 +11,18 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
 
 #### Hipster list
 
-- brunch
-- fixie
-- raybans
-- messenger bag
+-   brunch
+-   fixie
+-   raybans
+-   messenger bag
 
 #### Check List
 
-- [x] Brush Teeth
-- [ ] Put on socks
-  - [x] Put on left sock
-  - [ ] Put on right sock
-- [x] Go to school
+-   [x] Brush Teeth
+-   [ ] Put on socks
+    -   [x] Put on left sock
+    -   [ ] Put on right sock
+-   [x] Go to school
 
 Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
 

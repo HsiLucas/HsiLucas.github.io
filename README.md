@@ -215,38 +215,38 @@ Run the test yourself: [Google Lighthouse PageSpeed Insights](https://pagespeed.
 
 ## Table Of Contents
 
-- [al-folio](#al-folio)
-  - [User community](#user-community)
-  - [Lighthouse PageSpeed Insights](#lighthouse-pagespeed-insights)
-    - [Desktop](#desktop)
-    - [Mobile](#mobile)
-  - [Table Of Contents](#table-of-contents)
-  - [Getting started](#getting-started)
-  - [Installing and Deploying](#installing-and-deploying)
-  - [Customizing](#customizing)
-  - [Features](#features)
-    - [Light/Dark Mode](#lightdark-mode)
-    - [CV](#cv)
-    - [People](#people)
-    - [Publications](#publications)
-    - [Collections](#collections)
-    - [Layouts](#layouts)
-      - [The iconic style of Distill](#the-iconic-style-of-distill)
-      - [Full support for math \& code](#full-support-for-math--code)
-      - [Photos, Audio, Video and more](#photos-audio-video-and-more)
-    - [Other features](#other-features)
-      - [GitHub's repositories and user stats](#githubs-repositories-and-user-stats)
-      - [Theming](#theming)
-      - [Social media previews](#social-media-previews)
-      - [Atom (RSS-like) Feed](#atom-rss-like-feed)
-      - [Related posts](#related-posts)
-      - [Code quality checks](#code-quality-checks)
-  - [FAQ](#faq)
-  - [Contributing](#contributing)
-    - [Maintainers](#maintainers)
-    - [All Contributors](#all-contributors)
-  - [Star History](#star-history)
-  - [License](#license)
+-   [al-folio](#al-folio)
+    -   [User community](#user-community)
+    -   [Lighthouse PageSpeed Insights](#lighthouse-pagespeed-insights)
+        -   [Desktop](#desktop)
+        -   [Mobile](#mobile)
+    -   [Table Of Contents](#table-of-contents)
+    -   [Getting started](#getting-started)
+    -   [Installing and Deploying](#installing-and-deploying)
+    -   [Customizing](#customizing)
+    -   [Features](#features)
+        -   [Light/Dark Mode](#lightdark-mode)
+        -   [CV](#cv)
+        -   [People](#people)
+        -   [Publications](#publications)
+        -   [Collections](#collections)
+        -   [Layouts](#layouts)
+            -   [The iconic style of Distill](#the-iconic-style-of-distill)
+            -   [Full support for math \& code](#full-support-for-math--code)
+            -   [Photos, Audio, Video and more](#photos-audio-video-and-more)
+        -   [Other features](#other-features)
+            -   [GitHub's repositories and user stats](#githubs-repositories-and-user-stats)
+            -   [Theming](#theming)
+            -   [Social media previews](#social-media-previews)
+            -   [Atom (RSS-like) Feed](#atom-rss-like-feed)
+            -   [Related posts](#related-posts)
+            -   [Code quality checks](#code-quality-checks)
+    -   [FAQ](#faq)
+    -   [Contributing](#contributing)
+        -   [Maintainers](#maintainers)
+        -   [All Contributors](#all-contributors)
+    -   [Star History](#star-history)
+    -   [License](#license)
 
 ## Getting started
 
@@ -359,24 +359,34 @@ You may also use the following codes for displaying this in any other pages.
 ```html
 <!-- code for GitHub users -->
 {% if site.data.repositories.github_users %}
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %} {% include repository/repo_user.liquid username=user %} {% endfor %}
+<div
+    class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center"
+>
+    {% for user in site.data.repositories.github_users %} {% include
+    repository/repo_user.liquid username=user %} {% endfor %}
 </div>
 {% endif %}
 
 <!-- code for GitHub trophies -->
-{% if site.repo_trophies.enabled %} {% for user in site.data.repositories.github_users %} {% if site.data.repositories.github_users.size > 1 %}
+{% if site.repo_trophies.enabled %} {% for user in
+site.data.repositories.github_users %} {% if
+site.data.repositories.github_users.size > 1 %}
 <h4>{{ user }}</h4>
 {% endif %}
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% include repository/repo_trophies.liquid username=user %}
+<div
+    class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center"
+>
+    {% include repository/repo_trophies.liquid username=user %}
 </div>
 {% endfor %} {% endif %}
 
 <!-- code for GitHub repositories -->
 {% if site.data.repositories.github_repos %}
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %} {% include repository/repo.liquid repository=repo %} {% endfor %}
+<div
+    class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center"
+>
+    {% for repo in site.data.repositories.github_repos %} {% include
+    repository/repo.liquid repository=repo %} {% endfor %}
 </div>
 {% endif %}
 ```
@@ -413,9 +423,9 @@ By default, there will be a related posts section on the bottom of the blog post
 
 Currently, we run some checks to ensure that the code quality and generated site are good. The checks are done using GitHub Actions and the following tools:
 
-- [Prettier](https://prettier.io/) - check if the formatting of the code follows the style guide
-- [lychee](https://lychee.cli.rs/) - check for broken links
-- [Axe](https://github.com/dequelabs/axe-core) (need to run manually) - do some accessibility testing
+-   [Prettier](https://prettier.io/) - check if the formatting of the code follows the style guide
+-   [lychee](https://lychee.cli.rs/) - check for broken links
+-   [Axe](https://github.com/dequelabs/axe-core) (need to run manually) - do some accessibility testing
 
 We decided to keep `Axe` runs manual because fixing the issues are not straightforward and might be hard for people without web development knowledge.
 

@@ -1,21 +1,21 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
-- [Installing and Deploying](#installing-and-deploying)
-  - [Recommended Approach](#recommended-approach)
-  - [Local setup on Windows](#local-setup-on-windows)
-  - [Local setup using Docker (Recommended)](#local-setup-using-docker-recommended)
-    - [Build your own docker image](#build-your-own-docker-image)
-  - [Local Setup with Development Containers](#local-setup-with-development-containers)
-  - [Local Setup (Legacy, no longer supported)](#local-setup-legacy-no-longer-supported)
-  - [Deployment](#deployment)
-    - [For personal and organization webpages](#for-personal-and-organization-webpages)
-    - [For project pages](#for-project-pages)
-    - [Enabling automatic deployment](#enabling-automatic-deployment)
-    - [Manual deployment to GitHub Pages](#manual-deployment-to-github-pages)
-    - [Deployment to another hosting server (non GitHub Pages)](#deployment-to-another-hosting-server-non-github-pages)
-    - [Deployment to a separate repository (advanced users only)](#deployment-to-a-separate-repository-advanced-users-only)
-  - [Upgrading from a previous version](#upgrading-from-a-previous-version)
+-   [Table of Contents](#table-of-contents)
+-   [Installing and Deploying](#installing-and-deploying)
+    -   [Recommended Approach](#recommended-approach)
+    -   [Local setup on Windows](#local-setup-on-windows)
+    -   [Local setup using Docker (Recommended)](#local-setup-using-docker-recommended)
+        -   [Build your own docker image](#build-your-own-docker-image)
+    -   [Local Setup with Development Containers](#local-setup-with-development-containers)
+    -   [Local Setup (Legacy, no longer supported)](#local-setup-legacy-no-longer-supported)
+    -   [Deployment](#deployment)
+        -   [For personal and organization webpages](#for-personal-and-organization-webpages)
+        -   [For project pages](#for-project-pages)
+        -   [Enabling automatic deployment](#enabling-automatic-deployment)
+        -   [Manual deployment to GitHub Pages](#manual-deployment-to-github-pages)
+        -   [Deployment to another hosting server (non GitHub Pages)](#deployment-to-another-hosting-server-non-github-pages)
+        -   [Deployment to a separate repository (advanced users only)](#deployment-to-a-separate-repository-advanced-users-only)
+    -   [Upgrading from a previous version](#upgrading-from-a-previous-version)
 
 # Installing and Deploying
 
@@ -47,8 +47,8 @@ Using Docker to install Jekyll and Ruby dependencies is the easiest way.
 
 You need to take the following steps to get `al-folio` up and running on your local machine:
 
-- First, install [docker](https://docs.docker.com/get-docker/) and [docker-compose](https://docs.docker.com/compose/install/).
-- Finally, run the following command that will pull the latest pre-built image from DockerHub and will run your website.
+-   First, install [docker](https://docs.docker.com/get-docker/) and [docker-compose](https://docs.docker.com/compose/install/).
+-   Finally, run the following command that will pull the latest pre-built image from DockerHub and will run your website.
 
 ```bash
 $ docker compose pull
@@ -193,24 +193,24 @@ Then go to Actions -> New workflow -> set up a workflow yourself, setup the foll
 ```yaml
 name: Sync from template
 on:
-  # cronjob trigger
-  schedule:
-    - cron: "0 0 1 * *"
-  # manual trigger
-  workflow_dispatch:
+    # cronjob trigger
+    schedule:
+        - cron: '0 0 1 * *'
+    # manual trigger
+    workflow_dispatch:
 jobs:
-  repo-sync:
-    runs-on: ubuntu-latest
-    steps:
-      # To use this repository's private action, you must check out the repository
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: actions-template-sync
-        uses: AndreasAugustin/actions-template-sync@v1
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          source_repo_path: alshedivat/al-folio
-          upstream_branch: master
+    repo-sync:
+        runs-on: ubuntu-latest
+        steps:
+            # To use this repository's private action, you must check out the repository
+            - name: Checkout
+              uses: actions/checkout@v4
+            - name: actions-template-sync
+              uses: AndreasAugustin/actions-template-sync@v1
+              with:
+                  github_token: ${{ secrets.GITHUB_TOKEN }}
+                  source_repo_path: alshedivat/al-folio
+                  upstream_branch: master
 ```
 
 You will receive a pull request within your repository if there are some changes available in the template.

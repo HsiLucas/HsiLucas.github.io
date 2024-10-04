@@ -88,31 +88,31 @@ In publications, the author entry for yourself is identified by string array `sc
 
 ```yaml
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+    last_name: [Einstein]
+    first_name: [Albert, A.]
 ```
 
 If the entry matches one form of the last names and the first names, it will be underlined. Keep meta-information about your co-authors in [\_data/coauthors.yml](_data/coauthors.yml) and Jekyll will insert links to their webpages automatically. The co-author data format is as follows,
 
 ```yaml
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+'adams':
+    - firstname: ['Edwin', 'E.', 'E. P.', 'Edwin Plimpton']
+      url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+'podolsky':
+    - firstname: ['Boris', 'B.', 'B. Y.', 'Boris Yakovlevich']
+      url: https://en.wikipedia.org/wiki/Boris_Podolsky
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+'rosen':
+    - firstname: ['Nathan', 'N.']
+      url: https://en.wikipedia.org/wiki/Nathan_Rosen
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+'bach':
+    - firstname: ['Johann Sebastian', 'J. S.']
+      url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+    - firstname: ['Carl Philipp Emanuel', 'C. P. E.']
+      url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
 ```
 
 If the entry matches one of the combinations of the last names and the first names, it will be highlighted and linked to the url provided.
@@ -121,21 +121,21 @@ If the entry matches one of the combinations of the last names and the first nam
 
 There are several custom bibtex keywords that you can use to affect how the entries are displayed on the webpage:
 
-- `abbr`: Adds an abbreviation to the left of the entry. You can add links to these by creating a venue.yaml-file in the \_data folder and adding entries that match.
-- `abstract`: Adds an "Abs" button that expands a hidden text field when clicked to show the abstract text
-- `altmetric`: Adds an [Altmetric](https://www.altmetric.com/) badge (Note: if DOI is provided just use `true`, otherwise only add the altmetric identifier here - the link is generated automatically)
-- `annotation`: Adds a popover info message to the end of the author list that can potentially be used to clarify superscripts. HTML is allowed.
-- `arxiv`: Adds a link to the Arxiv website (Note: only add the arxiv identifier here - the link is generated automatically)
-- `bibtex_show`: Adds a "Bib" button that expands a hidden text field with the full bibliography entry
-- `blog`: Adds a "Blog" button redirecting to the specified link
-- `code`: Adds a "Code" button redirecting to the specified link
-- `dimensions`: Adds a [Dimensions](https://www.dimensions.ai/) badge (Note: if DOI or PMID is provided just use `true`, otherwise only add the Dimensions' identifier here - the link is generated automatically)
-- `html`: Inserts an "HTML" button redirecting to the user-specified link
-- `pdf`: Adds a "PDF" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
-- `poster`: Adds a "Poster" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
-- `slides`: Adds a "Slides" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
-- `supp`: Adds a "Supp" button to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
-- `website`: Adds a "Website" button redirecting to the specified link
+-   `abbr`: Adds an abbreviation to the left of the entry. You can add links to these by creating a venue.yaml-file in the \_data folder and adding entries that match.
+-   `abstract`: Adds an "Abs" button that expands a hidden text field when clicked to show the abstract text
+-   `altmetric`: Adds an [Altmetric](https://www.altmetric.com/) badge (Note: if DOI is provided just use `true`, otherwise only add the altmetric identifier here - the link is generated automatically)
+-   `annotation`: Adds a popover info message to the end of the author list that can potentially be used to clarify superscripts. HTML is allowed.
+-   `arxiv`: Adds a link to the Arxiv website (Note: only add the arxiv identifier here - the link is generated automatically)
+-   `bibtex_show`: Adds a "Bib" button that expands a hidden text field with the full bibliography entry
+-   `blog`: Adds a "Blog" button redirecting to the specified link
+-   `code`: Adds a "Code" button redirecting to the specified link
+-   `dimensions`: Adds a [Dimensions](https://www.dimensions.ai/) badge (Note: if DOI or PMID is provided just use `true`, otherwise only add the Dimensions' identifier here - the link is generated automatically)
+-   `html`: Inserts an "HTML" button redirecting to the user-specified link
+-   `pdf`: Adds a "PDF" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
+-   `poster`: Adds a "Poster" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
+-   `slides`: Adds a "Slides" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
+-   `supp`: Adds a "Supp" button to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
+-   `website`: Adds a "Website" button redirecting to the specified link
 
 You can implement your own buttons by editing the [\_layouts/bib.liquid](_layouts/bib.liquid) file.
 
@@ -161,8 +161,8 @@ Also In case you face the error: "Input required and not supplied: token" in the
 
 ### Personal Access Token (fine-grained) Permissions for Lighthouse Badger:
 
-- **contents**: access: read and write
-- **metadata**: access: read-only
+-   **contents**: access: read and write
+-   **metadata**: access: read-only
 
 Due to the necessary permissions (PAT and others mentioned above), it is recommended to use it as a secret rather than an environment variable.
 
@@ -186,14 +186,14 @@ In this folder you need to store your file in the same format as you would in `_
 
 ### Important Notes
 
-- The scheduler uploads posts everyday at 🕛 23:30 UTC
-- It will only upload posts at 23:30 UTC of their respective scheduled days, It's not uploaded in 23:59 in case there are a lot of files as the scheduler must finish before 00:00
-- It will only upload files which follow the pattern `yyyy-mm-dd-title.md`
-  - This means that only markdown files will be posted
-  - It means that any markdown which do not follow this pattern will not be posted
-- The scheduler works by moving posts from the `_scheduled/` directory to `_posts/`, it will not post to folders like `_projects/` or `_news/`
-- The date in the name of the file is the day that file will be uploaded on
-  - `2024-08-27-file1.md` will not be posted before or after 27-August-2024 (Scheduler only works for posts scheduled on the present day)
-  - `2025-08-27-file2.md` will be posted exactly on 27-August-2025
-  - `File3.md` will not be posted at all
-  - `2026-02-31-file4.md` is supposed to be posted on 31-February-2026, but there is no 31st in February hence this file will never be posted either
+-   The scheduler uploads posts everyday at 🕛 23:30 UTC
+-   It will only upload posts at 23:30 UTC of their respective scheduled days, It's not uploaded in 23:59 in case there are a lot of files as the scheduler must finish before 00:00
+-   It will only upload files which follow the pattern `yyyy-mm-dd-title.md`
+    -   This means that only markdown files will be posted
+    -   It means that any markdown which do not follow this pattern will not be posted
+-   The scheduler works by moving posts from the `_scheduled/` directory to `_posts/`, it will not post to folders like `_projects/` or `_news/`
+-   The date in the name of the file is the day that file will be uploaded on
+    -   `2024-08-27-file1.md` will not be posted before or after 27-August-2024 (Scheduler only works for posts scheduled on the present day)
+    -   `2025-08-27-file2.md` will be posted exactly on 27-August-2025
+    -   `File3.md` will not be posted at all
+    -   `2026-02-31-file4.md` is supposed to be posted on 31-February-2026, but there is no 31st in February hence this file will never be posted either

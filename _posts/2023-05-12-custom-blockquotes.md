@@ -16,59 +16,59 @@ We decided to support the same custom blockquotes as in [jekyll-gitbook](https:/
 ```scss
 /* Tips, warnings, and dangers */
 .post .post-content blockquote {
-  &.block-tip {
-    border-color: var(--global-tip-block);
-    background-color: var(--global-tip-block-bg);
+    &.block-tip {
+        border-color: var(--global-tip-block);
+        background-color: var(--global-tip-block-bg);
 
-    p {
-      color: var(--global-tip-block-text);
+        p {
+            color: var(--global-tip-block-text);
+        }
+
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            color: var(--global-tip-block-title);
+        }
     }
 
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6 {
-      color: var(--global-tip-block-title);
-    }
-  }
+    &.block-warning {
+        border-color: var(--global-warning-block);
+        background-color: var(--global-warning-block-bg);
 
-  &.block-warning {
-    border-color: var(--global-warning-block);
-    background-color: var(--global-warning-block-bg);
+        p {
+            color: var(--global-warning-block-text);
+        }
 
-    p {
-      color: var(--global-warning-block-text);
-    }
-
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6 {
-      color: var(--global-warning-block-title);
-    }
-  }
-
-  &.block-danger {
-    border-color: var(--global-danger-block);
-    background-color: var(--global-danger-block-bg);
-
-    p {
-      color: var(--global-danger-block-text);
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            color: var(--global-warning-block-title);
+        }
     }
 
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6 {
-      color: var(--global-danger-block-title);
+    &.block-danger {
+        border-color: var(--global-danger-block);
+        background-color: var(--global-danger-block-bg);
+
+        p {
+            color: var(--global-danger-block-text);
+        }
+
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            color: var(--global-danger-block-title);
+        }
     }
-  }
 }
 ```
 
