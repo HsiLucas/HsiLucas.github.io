@@ -6,7 +6,6 @@
         "image": "",
         "email": "hsinglucas@gmail.com",
         "phone": "",
-        "url": "",
         "summary": "I am a mixed-methods researcher with projects ranging from AI-Consumer Trust to 3D Surgical Medical Device Opportunity Assessment. I graduated with a MSc in Human Computer Interaction at the University in 2024 and a BA in Psychology at New York University in 2021. I have worked as a Consultant for the Beacon Group as well as a Research Analyst for Accenture for 2 years. Additionally, I have experience in user research, growth strategy, market sizing, client-facing communication, and competitive strategy and analysis.",
         "location": {
             "countryCode": "US",
@@ -33,7 +32,7 @@
                 "Identified system architecture, attach, install, refresh, and growth rates for hundreds of system groups across the healthcare, industrial, and energy segments for a global market model",
                 "Revamped a leading pharmaceutical company’s payer engagement strategy as it moved from primary care to specialty care, including engagement around a pipeline-stage therapy asset",
                 "Created and delivered client presentations for Fortune 100 companies\n\n• Sought out potential clients and reached out for business development for the company’s Technology Practice"
-                    ],
+            ],
             "url": "https://www.linkedin.com/company/88415878",
             "location": "New York, New York"
         },
@@ -42,9 +41,9 @@
             "position": "Consultant",
             "startDate": "2021-10-31",
             "endDate": "2022-12-31",
-            "highlights": [],
-            "summary": "• Research and analysis via primary and secondary research to provide support and engagement\nduring client presentations across Technology, Healthcare, Industrial, and Market Modeling\npractices\n\n• Business development for the company in the Technology Practice\n\n• Use of analytical tools, like excel, and execution on project frameworks",
-            "url": "https://www.linkedin.com/company/166351",
+            "highlights": ["Research and analysis via primary and secondary research to provide support and engagement during client presentations across Technology, Healthcare, Industrial, and Market Modeling practices",
+            "Business development for the company in the Technology Practice",
+            "Use of analytical tools, like excel, and execution on project frameworks"],
             "location": "Portland, Maine"
         },
         {
@@ -52,9 +51,8 @@
             "position": "Certified Fencing Referee",
             "startDate": "2017-07-31",
             "endDate": "2021-05-31",
-            "highlights": [],
-            "summary": "• Assist with the regulation of competition rules by communicating with competitors and courteously resolving issues \n\n• Referee assigned fencing bouts and make unbiased decisions",
-            "url": "",
+            "highlights": ["Assist with the regulation of competition rules by communicating with competitors and courteously resolving issues",
+            "Referee assigned fencing bouts and make unbiased decisions"],
             "location": "United States"
         },
         {
@@ -62,8 +60,11 @@
             "position": "Legal Intern",
             "startDate": "2019-06-30",
             "endDate": "2019-08-31",
-            "highlights": [],
-            "summary": "• Assist in organizing the 2019 NE Regional/Fall Conference with 23 programs, and over 100 speakers\n\n• Assist in the planning, organization, implementation and promotion of conferences, panels,\nCLE classes and other AABANY sponsored events\n\n• Assist in updating the AABANY calendar, AABANY Blog, as well as drafting press releases\n\n• Attend and participate in AABANY Board meetings, conferences, panels, CLE classes and\nother AABANY sponsored events \n\n• General assistance to the officers and directors of AABANY, including administrative matters,\nfundraising, managing the website, the social-network sites, and the membership database",
+            "highlights": ["Assist in organizing the 2019 NE Regional/Fall Conference with 23 programs, and over 100 speakers",
+            "Assist in the planning, organization, implementation and promotion of conferences, panels, CLE classes and other AABANY sponsored events",
+            "Assist in updating the AABANY calendar, AABANY Blog, as well as drafting press releases", 
+            "Attend and participate in AABANY Board meetings, conferences, panels, CLE classes and other AABANY sponsored events",
+            "General assistance to the officers and directors of AABANY, including administrative matters, fundraising, managing the website, the social-network sites, and the membership database"],
             "url": "https://www.linkedin.com/company/2075242",
             "location": "New York, New York"
         },
@@ -72,21 +73,11 @@
             "position": "Sophmore Cohort President",
             "startDate": "2018-09-30",
             "endDate": "2019-03-31",
-            "highlights": [],
-            "summary": "• Plan community-building activities for Cohort 37-40 and the entire sophomore class.\n\n• Manage the budget and schedule events for the College Cohort Program.\n\n• Serve as a resource for incoming transfer students.",
+            "highlights": ["Plan community-building activities for Cohort 37-40 and the entire sophomore class",
+            "Manage the budget and schedule events for the College Cohort Program",
+            "Serve as a resource for incoming transfer students"],
             "url": "https://www.linkedin.com/company/3159",
             "location": "New York, New York"
-        }
-    ],
-    "volunteer": [
-        {
-            "organization": "Cross-Cultural Solutions",
-            "position": "Volunteer",
-            "startDate": "2015-06-30",
-            "endDate": "2015-08-31",
-            "summary": "• Contributed aid to a public school by providing restoration of facilities and teaching assistance in Cartago, Costa Rica.\n• Assisted with activities at a local orphanage by playing interactive games with the residents.\n",
-            "highlights": [],
-            "url": "https://www.linkedin.com/company/35814"
         }
     ],
     "education": [
@@ -98,9 +89,9 @@
             "endDate": "2024-09-30",
             "score": "Expected GPA - 3.8 / First Class Honours",
             "courses": [
-                "null - Cognitive Ergonomics",
-                "null - Design Ethnography",
-                "null - Human-Computer Systems"
+                "Cognitive Ergonomics",
+                "Design Ethnography",
+                "Human-Computer Systems"
             ]
         },
         {
@@ -111,28 +102,24 @@
             "endDate": "2021-05-31",
             "score": "Major GPA - 3.8",
             "courses": [
-                " - Cognitive Neuroscience",
-                "null - Intro to Computer Programming",
-                "null - Intermediate Japanese I",
-                "null - Cognition",
-                "null - Advanced Psychological Statistics ",
-                "null - Clinical Psychology",
-                "null - Abnormal Psychology"
+                "Cognitive Neuroscience",
+                "Intro to Computer Programming",
+                "Intermediate Japanese I",
+                "Cognition",
+                "Advanced Psychological Statistics ",
+                "Clinical Psychology",
+                "Abnormal Psychology"
             ]
-        },
-        {
-            "institution": "The Masters School",
-            "area": "",
-            "studyType": "High School Diploma",
-            "startDate": "2013-12-31",
-            "endDate": "2017-12-31",
-            "score": "",
-            "courses": []
         }
     ],
     "awards": [],
     "certificates": [],
-    "publications": [],
+    "publications": [
+        {
+            "name": "MSc Dissertation: Consumer Perceptions, Trust, and Implications on User Assisted AI Journalism",
+            "summary": " This study explores consumer perceptions and trust in AI-assisted journalism, focusing on the use of AI tools for tasks such as article writing, image generation, and credibility assessment. The research employed a mixed-methods approach, combining focus groups, provotype testing, and interviews to gather data from 30 participants in the United Kingdom. The findings reveal a cautious optimism towards AI's potential benefits, such as increased efficiency and the ability to identify newsworthy content. However, concerns persist regarding the potential homogenization of content, the perpetuation of bias, and the risk of misinformation."
+        }
+    ],
     "skills": [
         {
             "name": "User Experience (UX)",
@@ -140,7 +127,7 @@
             "keywords": []
         },
         {
-            "name": "Growth Strategies",
+            "name": "Figma",
             "level": "",
             "keywords": []
         },
@@ -155,12 +142,22 @@
             "keywords": []
         },
         {
-            "name": "Editing",
+            "name": "Statistics",
             "level": "",
             "keywords": []
         },
         {
-            "name": "Presentation Skills",
+            "name": "Growth Strategy & Management Consulting",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Project Management",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Python",
             "level": "",
             "keywords": []
         },
@@ -170,32 +167,22 @@
             "keywords": []
         },
         {
-            "name": "Microsoft Word",
+            "name": "C#",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Javascript",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Google Sheets | Microsoft Excel",
             "level": "",
             "keywords": []
         },
         {
             "name": "Customer Relationship Management (CRM)",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Microsoft Excel",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Event Management",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Python (Programming Language)",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Working With Clients",
             "level": "",
             "keywords": []
         },
@@ -210,42 +197,12 @@
             "keywords": []
         },
         {
-            "name": "Client Relations",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Intercollegiate Athletics",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Primary Research",
-            "level": "",
-            "keywords": []
-        },
-        {
             "name": "Object-Oriented Programming (OOP)",
             "level": "",
             "keywords": []
         },
         {
-            "name": "Microsoft Office",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Volunteering",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Management Consulting",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Programming",
+            "name": "Microsoft Office | Word, PowerPoint",
             "level": "",
             "keywords": []
         },
@@ -255,107 +212,12 @@
             "keywords": []
         },
         {
-            "name": "Cognitive Neuroscience",
-            "level": "",
-            "keywords": []
-        },
-        {
             "name": "Human Factors",
             "level": "",
             "keywords": []
         },
         {
-            "name": "Strategy",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Consulting",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Emergency First Response Instruction",
-            "level": "",
-            "keywords": []
-        },
-        {
             "name": "Public Policy",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Leadership",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Project Management",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Psychology",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Microsoft PowerPoint",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Event Planning",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Life Sciences",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Management",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Drafting Press Releases",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Analytical Skills",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Blogging",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Strategic Consulting",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Japanese",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Statistics",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Presentations",
-            "level": "",
-            "keywords": []
-        },
-        {
-            "name": "Website Administration",
             "level": "",
             "keywords": []
         }
@@ -364,9 +226,34 @@
         {
             "language": "English",
             "fluency": "Native Speaker"
+        },
+        {
+            "language": "Japanese",
+            "fluency": "Conversational"
         }
     ],
-    "interests": [],
+    "interests": [
+        {
+            "name": "Fencing",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Skiing",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Cooking",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Dungeons and Dragons",
+            "level": "",
+            "keywords": []
+        }
+    ],
     "references": [],
     "projects": [],
     "meta": {
