@@ -5,7 +5,7 @@
         "label": "UX Researcher",
         "image": "",
         "email": "hsinglucas@gmail.com",
-        "phone": "",
+        "phone": "(646) 696-0623",
         "summary": "I am a mixed-methods researcher with projects ranging from AI-Consumer Trust to 3D Surgical Medical Device Opportunity Assessment. I graduated with a MSc in Human Computer Interaction at the University in 2024 and a BA in Psychology at New York University in 2021. I have worked as a Consultant for the Beacon Group as well as a Research Analyst for Accenture for 2 years. Additionally, I have experience in user research, growth strategy, market sizing, client-facing communication, and competitive strategy and analysis.",
         "location": {
             "countryCode": "US",
@@ -23,7 +23,7 @@
         {
             "name": "Accenture Strategy",
             "position": "Research Analyst",
-            "startDate": "2023-01-31",
+            "startDate": "2021-10-31",
             "endDate": "2023-08-31",
             "highlights": [
                 "Sized, assessed, and prioritized treatment segments to survey the global landscape of glaucoma surgical and drug/device therapies for a Fortune 500 med tech client and collaborated with the client team to select key therapies/targets that aligned with the client’s portfolio, R&D capabilities, and strategic goals",
@@ -31,52 +31,10 @@
                 "Conducted customer and competitor interviews to identify customers’ desire for a hardware-based IMC solution, potential for competitor competitive technology, and industry priorities for a Fortune 100 client",
                 "Identified system architecture, attach, install, refresh, and growth rates for hundreds of system groups across the healthcare, industrial, and energy segments for a global market model",
                 "Revamped a leading pharmaceutical company’s payer engagement strategy as it moved from primary care to specialty care, including engagement around a pipeline-stage therapy asset",
-                "Created and delivered client presentations for Fortune 100 companies\n\n• Sought out potential clients and reached out for business development for the company’s Technology Practice"
+                "Created and delivered client presentations for Fortune 100 companies",
+                "Sought out potential clients and reached out for business development for the company’s Technology Practice"
             ],
             "url": "https://www.linkedin.com/company/88415878",
-            "location": "New York, New York"
-        },
-        {
-            "name": "The Beacon Group, Part of Accenture",
-            "position": "Consultant",
-            "startDate": "2021-10-31",
-            "endDate": "2022-12-31",
-            "highlights": ["Research and analysis via primary and secondary research to provide support and engagement during client presentations across Technology, Healthcare, Industrial, and Market Modeling practices",
-            "Business development for the company in the Technology Practice",
-            "Use of analytical tools, like excel, and execution on project frameworks"],
-            "location": "Portland, Maine"
-        },
-        {
-            "name": "United States Fencing Association",
-            "position": "Certified Fencing Referee",
-            "startDate": "2017-07-31",
-            "endDate": "2021-05-31",
-            "highlights": ["Assist with the regulation of competition rules by communicating with competitors and courteously resolving issues",
-            "Referee assigned fencing bouts and make unbiased decisions"],
-            "location": "United States"
-        },
-        {
-            "name": "Asian American Bar Association of New York",
-            "position": "Legal Intern",
-            "startDate": "2019-06-30",
-            "endDate": "2019-08-31",
-            "highlights": ["Assist in organizing the 2019 NE Regional/Fall Conference with 23 programs, and over 100 speakers",
-            "Assist in the planning, organization, implementation and promotion of conferences, panels, CLE classes and other AABANY sponsored events",
-            "Assist in updating the AABANY calendar, AABANY Blog, as well as drafting press releases", 
-            "Attend and participate in AABANY Board meetings, conferences, panels, CLE classes and other AABANY sponsored events",
-            "General assistance to the officers and directors of AABANY, including administrative matters, fundraising, managing the website, the social-network sites, and the membership database"],
-            "url": "https://www.linkedin.com/company/2075242",
-            "location": "New York, New York"
-        },
-        {
-            "name": "New York University",
-            "position": "Sophmore Cohort President",
-            "startDate": "2018-09-30",
-            "endDate": "2019-03-31",
-            "highlights": ["Plan community-building activities for Cohort 37-40 and the entire sophomore class",
-            "Manage the budget and schedule events for the College Cohort Program",
-            "Serve as a resource for incoming transfer students"],
-            "url": "https://www.linkedin.com/company/3159",
             "location": "New York, New York"
         }
     ],
@@ -87,11 +45,16 @@
             "studyType": "Master of Science - MS",
             "startDate": "2023-09-30",
             "endDate": "2024-09-30",
-            "score": "Expected GPA - 3.8 / First Class Honours",
+            "score": "3.8",
             "courses": [
-                "Cognitive Ergonomics",
+                "Cognitive Ergonomics in Design",
                 "Design Ethnography",
-                "Human-Computer Systems"
+                "Studying Human Performance",
+                "Simulation, Virtual Reality, and Advanced Human-Machine Interface",
+                "Software Engineering Management",
+                "Human-Computer Systems",
+                "Advanced Methods in Human Factors and HCI",
+                "Mixed Reality"
             ]
         },
         {
@@ -100,15 +63,19 @@
             "studyType": "Bachelor's degree",
             "startDate": "2017-09-30",
             "endDate": "2021-05-31",
-            "score": "Major GPA - 3.8",
+            "score": "3.8",
             "courses": [
                 "Cognitive Neuroscience",
-                "Intro to Computer Programming",
-                "Intermediate Japanese I",
-                "Cognition",
                 "Advanced Psychological Statistics ",
                 "Clinical Psychology",
-                "Abnormal Psychology"
+                "Abnormal Psychology",
+                "Child & Adolescent Psychopathology",
+                "Social Neuroscience",
+                "Social Psychology",
+                "Psychological Science and Society",
+                "Management and Organizations",
+                "Business of Video Games",
+                "Data Structures"
             ]
         }
     ],
@@ -117,7 +84,7 @@
     "publications": [
         {
             "name": "MSc Dissertation: Consumer Perceptions, Trust, and Implications on User Assisted AI Journalism",
-            "summary": " This study explores consumer perceptions and trust in AI-assisted journalism, focusing on the use of AI tools for tasks such as article writing, image generation, and credibility assessment. The research employed a mixed-methods approach, combining focus groups, provotype testing, and interviews to gather data from 30 participants in the United Kingdom. The findings reveal a cautious optimism towards AI's potential benefits, such as increased efficiency and the ability to identify newsworthy content. However, concerns persist regarding the potential homogenization of content, the perpetuation of bias, and the risk of misinformation."
+            "summary": "This study explores consumer perceptions and trust in AI-assisted journalism, focusing on the use of AI tools for tasks such as article writing, image generation, and credibility assessment. The research employed a mixed-methods approach, combining focus groups, provotype testing, and interviews to gather data from 30 participants in the United Kingdom. The findings reveal a cautious optimism towards AI's potential benefits, such as increased efficiency and the ability to identify newsworthy content. However, concerns persist regarding the potential homogenization of content, the perpetuation of bias, and the risk of misinformation."
         }
     ],
     "skills": [
@@ -235,8 +202,10 @@
     "interests": [
         {
             "name": "Fencing",
-            "level": "",
-            "keywords": []
+            "keywords": [
+                "BUCS Varsity Fencing 23-24",
+                "NCAA Varsity Fencing 17-21"
+            ]
         },
         {
             "name": "Skiing",
