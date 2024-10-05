@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Surgical Glaucoma Opportunity Assessment
+description: Research into the global landscape of glaucoma surgical and drug/device therapies for a Fortune 500 medtech client
+img:
 importance: 1
 category: work
 related_publications: true
