@@ -8,22 +8,31 @@ category: work
 related_publications: true
 ---
 
-<h2>Project Overview</h2>
+## Project Overview
 
 A Fortune 500 med tech company is evaluating new eye care segments as potential areas for new growth. They’re a global leader in vision and are looking to leverage their vision expertise to build capabilities within the glaucoma market as a potential area of growth. They lack any high-potential glaucoma assets in the pipeline, but the market is an interesting adjacency given its high growth, high unmet need, and alignment with the company’s capabilities and growth leads. In particular, they are interested in the opportunity to potentially leverage their polymer capabilities within the glaucoma space, but also understand the opportunity in the glaucoma surgical space.
 
-This project overview details the research process to evaluate the glaucoma opportunity and prioritize potential technology platforms:
+This 3-month project overview details the research process to evaluate the glaucoma opportunity and prioritize potential technology platforms:
 
-    Global Glaucoma Surgical Landscape Assessment
+###### Global Glaucoma Surgical Landscape Assessment
 
-Assess the glaucoma therapy landscape, evaluate drivers and barriers to growth in the glaucoma surgical vision market
+ - Assess the glaucoma therapy landscape, evaluate drivers and barriers to growth in the glaucoma surgical vision market
 
-    Global Glaucoma Prioritization Strategy Assessment
+###### Global Glaucoma Prioritization Strategy Assessment
 
-Assess the glaucoma therapy landscape in the vision care glaucoma market(s)
-Understand the clinical and customer unmet need within glaucoma, with a specific focus on extended-release therapies and drug/delivery landscape
-Evaluate value proposition of potential solutions and prioritize emerging disease intervention opportunities in the glaucoma space, understand synergies with existing capabilities
-Develop a recommended glaucoma portfolio development strategy focused on inorganic growth opportunities
+ - Assess the glaucoma therapy landscape in the vision care glaucoma market(s)
+ - Understand the clinical and customer unmet need within glaucoma, with a specific focus on extended-release therapies and drug/delivery landscape
+ - Evaluate value proposition of potential solutions and prioritize emerging disease intervention opportunities in the glaucoma space, understand synergies with existing capabilities
+ - Develop a recommended glaucoma portfolio development strategy focused on inorganic growth opportunities
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/p1table1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Engagement Timeline
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
