@@ -14,11 +14,11 @@ A Fortune 500 med tech company is evaluating new eye care segments as potential 
 
 This 3-month project overview details the research process to evaluate the glaucoma opportunity and prioritize potential technology platforms:
 
-###### Global Glaucoma Surgical Landscape Assessment
+##### Global Glaucoma Surgical Landscape Assessment
 
  - Assess the glaucoma therapy landscape, evaluate drivers and barriers to growth in the glaucoma surgical vision market
 
-###### Global Glaucoma Prioritization Strategy Assessment
+##### Global Glaucoma Prioritization Strategy Assessment
 
  - Assess the glaucoma therapy landscape in the vision care glaucoma market(s)
  - Understand the clinical and customer unmet need within glaucoma, with a specific focus on extended-release therapies and drug/delivery landscape
@@ -27,12 +27,22 @@ This 3-month project overview details the research process to evaluate the glauc
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/p1table1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/p1table1.png" title="Engagement Timeline" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     Engagement Timeline
 </div>
+
+## User Research
+
+As shown in the engagement timeline, the first step in the project was the creation of 9 project scope questions that covered questions the company sought to answer in their landscape assessment and glaucoma prioritization. Afterwards, an interview guide was created in order to conduct 9 semi-structured interviews with internal employees. These interviews were conducted to determine exisiting capabilities as well as thoughts on expanding into the glaucoma landscape. 
+
+The information gathered from this data was assigned to the relevant scope questions and used to create a more well-informed interview guide was external semi-structured interviews. This guide was then used to interview a total of 26 outside sources (12 in the United States, 5 in the United Kingdom, and 9 in APAC). Participants ranged from Ophthamlogists, Research Directors, and Professors across all 3 main regions.  
+
+## Analysis
+
+## Reflections and Takeaways
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
