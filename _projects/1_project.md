@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Surgical Glaucoma Opportunity Assessment
-description: Research into the global landscape of glaucoma surgical and drug/device therapies for a Fortune 500 medtech client
+title: Consumer Perceptions, Trust, and Implications on User Assisted AI Journalism
+description: Conducted extensive research to explore how AI can be leveraged to enhance consumer trust in journalism and how consumers trust and perceive AI-usage in journalism
 img: /assets/img/project1shunt.jpg
 importance: 1
 category: work

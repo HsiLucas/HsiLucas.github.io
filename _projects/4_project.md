@@ -1,82 +1,70 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: IoTG Market Modeling
+description: Identified system architecture, attach, install, refresh, and growth rates for system groups across the healthcare, biopharmaceutical, industrial, and energy segments
+img: /assets/img/project1shunt.jpg
+importance: 4
+category: work
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Project Overview
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+A Fortune 500 med tech company is evaluating new eye care segments as potential areas for new growth. They’re a global leader in vision and are looking to leverage their vision expertise to build capabilities within the glaucoma market as a potential area of growth. They lack any high-potential glaucoma assets in the pipeline, but the market is an interesting adjacency given its high growth, high unmet need, and alignment with the company’s capabilities and growth leads. In particular, they are interested in the opportunity to potentially leverage their polymer capabilities within the glaucoma space, but also understand the opportunity in the glaucoma surgical space.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+This 3-month project overview details the research process to evaluate the glaucoma opportunity and prioritize potential technology platforms:
+
+##### Global Glaucoma Surgical Landscape Assessment
+
+-   Assess the glaucoma therapy landscape, evaluate drivers and barriers to growth in the glaucoma surgical vision market
+
+##### Global Glaucoma Prioritization Strategy Assessment
+
+-   Assess the glaucoma therapy landscape in the vision care glaucoma market(s)
+-   Understand the clinical and customer unmet need within glaucoma, with a specific focus on extended-release therapies and drug/delivery landscape
+-   Evaluate value proposition of potential solutions and prioritize emerging disease intervention opportunities in the glaucoma space, understand synergies with existing capabilities
+-   Develop a recommended glaucoma portfolio development strategy focused on inorganic growth opportunities
+
+## Responsibilities
+
+I was the sole researcher working on the Japanese market landscape, including analysis and interviews with stakeholders in Japanese. Additionaly, I collaborated with 2 other researchers working on other regions in the project. During the weekly updates and the final presentation, I was also responsible for presenting my section of the research directly to the client.
+
+My primary responsibilies included the creation of the Japanese interview script, reaching out to relevant external stakeholders, conducting interviews in both English and Japanese, analysis of quotes and secondary research, and the creation of presentation slides for my research.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/p1table1.png" title="Engagement Timeline" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Engagement Timeline
 </div>
+
+## User Research
+
+As shown in the engagement timeline, the first step in the project was the creation of 9 project scope questions that covered questions the company sought to answer in their landscape assessment and glaucoma prioritization. Afterwards, an interview guide was created in order to conduct 9 semi-structured interviews with internal employees. These interviews were conducted to determine exisiting capabilities as well as thoughts on expanding into the glaucoma landscape.
+
+The information gathered from this data was assigned to the relevant scope questions and used to create a more well-informed interview guide was external semi-structured interviews. This guide was then used to interview a total of 26 outside sources (12 in the United States, 5 in the United Kingdom, and 9 in APAC). Participants ranged from Ophthamlogists, Research Directors, and Professors across all 3 main regions.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/p1table2.png" title="Engagement Timeline" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Prioritization Process
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+## Analysis
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+For the Japanese market landscape, I conducted a multi-faceted research approach that combined qualitative and quantitative methods. I started by performing a deep dive into available secondary sources, including market reports, academic journals, and government health statistics. These sources helped me gauge the overall market size, growth potential, and competitive landscape. From there, I created an interview guide tailored to the Japanese healthcare ecosystem to ensure the insights gathered were relevant to the market. To gather more targeted insights, I reached out to a mix of stakeholders, including ophthalmologists, glaucoma specialists, and key opinion leaders (KOLs) in Japan.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+The interview process was structured to reveal unmet needs within the Japanese glaucoma space. To assess gaps in the market, I designed questions to probe specific areas like patient adherence to treatments, adoption of new technologies, and the overall patient journey. Additionally, I analyzed competitor activity through secondary research on major players in the glaucoma treatment market. I researched what innovations were being introduced by local Japanese companies as well as multinational corporations. This helped to frame the competitive landscape and pinpoint where opportunities for innovation existed.
 
-{% raw %}
+## Reflections and Takeaways
 
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image"
-        class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image"
-        class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
+I got a chance to sharpen both my research and client presentation skills as well as perform work in a foreign language. It was an invaluable experience in conducting research on a region where I was the only one assigned.
 
-{% endraw %}
+-   Engaging with Real Stakeholders: Conducting interviews with healthcare professionals, including ophthalmologists and KOLs, gave me direct exposure to real-world perspectives. I was able to tailor the interview questions to capture insights about the unmet needs and trends in the Japanese glaucoma space.
+-   Cultural and Linguistic Adaptation: Working in the Japanese market required not just technical expertise, but also sensitivity to cultural and language differences. Conducting interviews in Japanese helped ensure more accurate and authentic responses. This experience emphasized the importance of understanding local market dynamics and adjusting research methods to fit the specific context.
+-   Collaboration and Time Management: I worked closely with two other researchers covering different regions in different timezones. Ensuring that we maintained consistent communication and shared our findings in a timely manner was vital to the project's completion. Presenting my section of the research to the client during weekly updates and in the final presentation also highlighted the need for clear and concise communication to convey complex information effectively.
