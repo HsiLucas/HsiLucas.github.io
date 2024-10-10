@@ -2,7 +2,7 @@
 layout: page
 title: Surgical Glaucoma Opportunity Assessment
 description: Research into the global landscape of glaucoma surgical and drug/device therapies for a Fortune 500 medtech client
-img: /assets/img/project1shunt.jpg
+img: /assets/img/p2title.jpg
 importance: 2
 category: work
 related_publications: false
@@ -33,7 +33,7 @@ My primary responsibilies included the creation of the Japanese interview script
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/p1table1.png" title="Engagement Timeline" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/p2table1.png" title="Engagement Timeline" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -48,7 +48,7 @@ The information gathered from this data was assigned to the relevant scope quest
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/p1table2.png" title="Engagement Timeline" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/p2table2.png" title="Prioritization Process" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
