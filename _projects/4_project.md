@@ -1,8 +1,8 @@
 ---
 layout: page
-title: IoTG Market Modeling
-description: Identified system architecture, attach, install, refresh, and growth rates for system groups across the healthcare, biopharmaceutical, industrial, and energy segments
-img: /assets/img/project1shunt.jpg
+title: Payer Engagement Strategy
+description: Revamped a leading pharmaceutical company's payer engagement strategy as it moves from primary care to specialty care
+img:
 importance: 4
 category: work
 related_publications: false
@@ -10,30 +10,31 @@ related_publications: false
 
 ## Project Overview
 
-A Fortune 500 med tech company is evaluating new eye care segments as potential areas for new growth. They’re a global leader in vision and are looking to leverage their vision expertise to build capabilities within the glaucoma market as a potential area of growth. They lack any high-potential glaucoma assets in the pipeline, but the market is an interesting adjacency given its high growth, high unmet need, and alignment with the company’s capabilities and growth leads. In particular, they are interested in the opportunity to potentially leverage their polymer capabilities within the glaucoma space, but also understand the opportunity in the glaucoma surgical space.
+A Fortune 500 pharmaceutical company is broadening their portfolio into immunology, rare diseases and specialty pharma with a focus on central nervous system (CNS) assets. With this expansion, the Payor Sales division of the company will encounter new customer segments, different needs from reimbursement channels, evolving distribution channels, and other areas that are new to the company. In addition to portfolio expansion, market dynamics such as the COVID-19 pandemic, and emerging commercial/sales team models, will likely impact their Payor Sales in ways it would like to better understand.
 
-This 3-month project overview details the research process to evaluate the glaucoma opportunity and prioritize potential technology platforms:
+This 3-month project overview details the research process to assess the new and evolving dynamics of selling to payor customers and implications to their Payor Sales strategy:
 
-##### Global Glaucoma Surgical Landscape Assessment
+##### Project Objectives
 
--   Assess the glaucoma therapy landscape, evaluate drivers and barriers to growth in the glaucoma surgical vision market
-
-##### Global Glaucoma Prioritization Strategy Assessment
-
--   Assess the glaucoma therapy landscape in the vision care glaucoma market(s)
--   Understand the clinical and customer unmet need within glaucoma, with a specific focus on extended-release therapies and drug/delivery landscape
--   Evaluate value proposition of potential solutions and prioritize emerging disease intervention opportunities in the glaucoma space, understand synergies with existing capabilities
--   Develop a recommended glaucoma portfolio development strategy focused on inorganic growth opportunities
+-   Identify current capabilities of Payor Sales team
+-   Assess the evolving needs and expectations of payor customers
+    -   Including impact of COVID-19 and other identified macro trends for the industry
+-   Understand payors’ needs and expectations for new therapeutic areas
+    -   Including immunology, rare diseases, and specialty pharma (e.g., CNS)
+    -   Including new reimbursement and distribution channels
+    -   Including new stakeholders/influencers
+-   Benchmark the best practices, activities, and structure and responsibilities of sales organizations at comparable industry competitors
+-   Recommend strategies to evolve the company's payor sales and engagement approach
 
 ## Responsibilities
 
-I was the sole researcher working on the Japanese market landscape, including analysis and interviews with stakeholders in Japanese. Additionaly, I collaborated with 2 other researchers working on other regions in the project. During the weekly updates and the final presentation, I was also responsible for presenting my section of the research directly to the client.
+I was 1 of 3 researchers working on the project, including analysis and interviews with key opinion leaders (KOLs). Additionally, I took conducted research in the competitive landscape of branded and generic incumbent therapies across the relevant CNS and immunotherapy areas. This also included how comparable pharmaceutical companies are partnered with and selling to payors. During the weekly updates and the final presentation, I was also responsible for presenting my section of the research directly to the client.
 
-My primary responsibilies included the creation of the Japanese interview script, reaching out to relevant external stakeholders, conducting interviews in both English and Japanese, analysis of quotes and secondary research, and the creation of presentation slides for my research.
+My primary responsibilies included reaching out to relevant external stakeholders, conducting interviews, analysis of quotes and secondary research, and the creation of presentation slides for my research.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/p1table1.png" title="Engagement Timeline" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/p4table1.png" title="Engagement Timeline" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -42,29 +43,22 @@ My primary responsibilies included the creation of the Japanese interview script
 
 ## User Research
 
-As shown in the engagement timeline, the first step in the project was the creation of 9 project scope questions that covered questions the company sought to answer in their landscape assessment and glaucoma prioritization. Afterwards, an interview guide was created in order to conduct 9 semi-structured interviews with internal employees. These interviews were conducted to determine exisiting capabilities as well as thoughts on expanding into the glaucoma landscape.
+As shown in the engagement timeline, the first step in the project was the creation of 8 project scope questions that covered questions the company sought to answer in their new customer segments for the Payor Sales division. Afterwards, an interview guide was created to conduct the semi-structured interviews with internal employees. These interviews were conducted to determine the thoughts, feelings, and ideas of the workers currently in the Payor Sales division.
 
-The information gathered from this data was assigned to the relevant scope questions and used to create a more well-informed interview guide was external semi-structured interviews. This guide was then used to interview a total of 26 outside sources (12 in the United States, 5 in the United Kingdom, and 9 in APAC). Participants ranged from Ophthamlogists, Research Directors, and Professors across all 3 main regions.
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/p1table2.png" title="Engagement Timeline" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Prioritization Process
-</div>
+The information gathered from this data helped inform the subsequent interview guide for external KOLs as well as shape how the project was tackled. This guide was then used to interview a total of 15 outside sources. Participants ranged from National Payors, Regional Payors, Federal Payors, Pharmaceutical Manufacturers, and Analysts.
 
 ## Analysis
 
-For the Japanese market landscape, I conducted a multi-faceted research approach that combined qualitative and quantitative methods. I started by performing a deep dive into available secondary sources, including market reports, academic journals, and government health statistics. These sources helped me gauge the overall market size, growth potential, and competitive landscape. From there, I created an interview guide tailored to the Japanese healthcare ecosystem to ensure the insights gathered were relevant to the market. To gather more targeted insights, I reached out to a mix of stakeholders, including ophthalmologists, glaucoma specialists, and key opinion leaders (KOLs) in Japan.
+Research began with a deep dive into available secondary sources, including publically available pipelines of competitors, program guides, expected job responsibilities of competitors in similar roles, and market insights. An interview guide was made within the research team as well as insights from the client on specific questions they wanted to ask. These sources helped gauge what steps the client would need to take to facilitate the growth and introduction of these added customer segments.
 
-The interview process was structured to reveal unmet needs within the Japanese glaucoma space. To assess gaps in the market, I designed questions to probe specific areas like patient adherence to treatments, adoption of new technologies, and the overall patient journey. Additionally, I analyzed competitor activity through secondary research on major players in the glaucoma treatment market. I researched what innovations were being introduced by local Japanese companies as well as multinational corporations. This helped to frame the competitive landscape and pinpoint where opportunities for innovation existed.
+Following the completion of research, an additional 3 weeks were also scheduled for stategy development. This time was held for larger discussions with the company as well as the consolidation of final recommendations. Best practices and competitive landscaping for pharmaceutical manufacturers in terms of internal structure, strategy, and payor engagement were consolidated from research and finalized at this time.
 
 ## Reflections and Takeaways
 
-I got a chance to sharpen both my research and client presentation skills as well as perform work in a foreign language. It was an invaluable experience in conducting research on a region where I was the only one assigned.
+Research into the payor space was both a new and exciting avenue of research for me. It was an unfamiliar field that not many researchers have the opportunity to look into. The experience also allowed me to improve my client presentation skills and expand my knowledge base.
 
--   Engaging with Real Stakeholders: Conducting interviews with healthcare professionals, including ophthalmologists and KOLs, gave me direct exposure to real-world perspectives. I was able to tailor the interview questions to capture insights about the unmet needs and trends in the Japanese glaucoma space.
--   Cultural and Linguistic Adaptation: Working in the Japanese market required not just technical expertise, but also sensitivity to cultural and language differences. Conducting interviews in Japanese helped ensure more accurate and authentic responses. This experience emphasized the importance of understanding local market dynamics and adjusting research methods to fit the specific context.
--   Collaboration and Time Management: I worked closely with two other researchers covering different regions in different timezones. Ensuring that we maintained consistent communication and shared our findings in a timely manner was vital to the project's completion. Presenting my section of the research to the client during weekly updates and in the final presentation also highlighted the need for clear and concise communication to convey complex information effectively.
+-   **Exploring a New Field**: Researching the payor sales space, especially in the context of new therapeutic areas like immunology and CNS, was an exciting challenge. It expanded my knowledge into an unfamiliar field, allowing me to gain unique insights into how pharmaceutical companies interact with payors
+
+-   **Client-Focused Insights**: Presenting my findings directly to the client helped refine my communication and client-facing skills. I learned how to translate complex research into strategic recommendations that aligned with the client's evolving needs
+
+-   **Understanding Market Dynamics**: This project gave me the opportunity to delve into macro trends affecting the pharmaceutical industry, such as the impact of COVID-19, and how they influence payor expectations

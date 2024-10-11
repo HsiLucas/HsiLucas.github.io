@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Payer Engagement Strategy
-description: Revamped a leading pharmaceutical company's payer engagement strategy as it moves from primary care to specialty care
-img: /assets/img/project1shunt.jpg
+title: 3D Surgical Medical Device Opportunity Assessment
+description: Identified and prioritized go-to-market strategy for a Fortune 500 medical device company in the 3D surgical space, including conducting competitive analysis
+img: /assets/img/p5title.jpg
 importance: 5
 category: work
 related_publications: false

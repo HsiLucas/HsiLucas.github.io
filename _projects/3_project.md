@@ -47,7 +47,7 @@ As shown in the engagement timeline, the first step in the project was the creat
 
 ## Analysis
 
-I started by researching similar technologies as well as industry thoughts on IMC through available secondary sources. This included public forums, academic journals, and market resports. These sources helped me gauge the overall market size, growth potential, and competitive landscape. Additionally, this also informed me about IMC's devlopmental status. This aided me in the creation of the interview guide used for the interviewed KOLs mentioned preivously. 
+I started by researching similar technologies as well as industry thoughts on IMC through available secondary sources. This included public forums, academic journals, and market resports. These sources helped me gauge the overall market size, growth potential, and competitive landscape. Additionally, this also informed me about IMC's devlopmental status. This aided me in the creation of the interview guide used for the interviewed KOLs mentioned preivously.
 
 The interview process was structured to reveal thoughts within working engineers in the industry. To assess gaps in the market, I designed questions to probe specific areas like their thoughts on the scalability of IMC, the effect of similar technologies such as NVMEs and near-memory computing, potential use cases, and the perceived increased effectiveness of IMC technology. Additionally, I analyzed competitor activity through secondary research on major players in the industry. I researched what innovations were being introduced by multinational corporations. This helped to frame the competitive landscape and pinpoint where opportunities for innovation existed.
 
@@ -55,10 +55,10 @@ The interview process was structured to reveal thoughts within working engineers
 
 I got a chance to sharpen both my research and client presentation skills as well as perform work in the technology space. The research I conducted was in an unfamiliar technology sector and aided me in expanding my knowledge purview
 
-- Expanding Expertise in a New Technology Sector: Working on this project introduced me to the IMC space, which was a new and unfamiliar field. Conducting in-depth research on emerging technologies like IMC and related alternatives broadened my technical understanding and exposed me to cutting-edge innovations in real-time data processing
+-   Expanding Expertise in a New Technology Sector: Working on this project introduced me to the IMC space, which was a new and unfamiliar field. Conducting in-depth research on emerging technologies like IMC and related alternatives broadened my technical understanding and exposed me to cutting-edge innovations in real-time data processing
 
-- Client-Focused Research and Presentation: Presenting research findings directly to the client each week improved my communication skills, particularly in distilling complex technical concepts into actionable insights. This helped me gain confidence in sharing strategic recommendations with senior stakeholders
+-   Client-Focused Research and Presentation: Presenting research findings directly to the client each week improved my communication skills, particularly in distilling complex technical concepts into actionable insights. This helped me gain confidence in sharing strategic recommendations with senior stakeholders
 
-- Developing Interviewing Skills with Industry Experts: Conducting interviews with key opinion leaders in the technology space helped refine my interviewing techniques, as I had to ask highly technical questions to professionals with deep expertise
+-   Developing Interviewing Skills with Industry Experts: Conducting interviews with key opinion leaders in the technology space helped refine my interviewing techniques, as I had to ask highly technical questions to professionals with deep expertise
 
-- Analyzing Market and Competitive Landscape: I honed my skills in competitive analysis by identifying key players and emerging trends within the IMC ecosystem. This was crucial in helping the client understand the market dynamics and where their potential advantages lay
+-   Analyzing Market and Competitive Landscape: I honed my skills in competitive analysis by identifying key players and emerging trends within the IMC ecosystem. This was crucial in helping the client understand the market dynamics and where their potential advantages lay

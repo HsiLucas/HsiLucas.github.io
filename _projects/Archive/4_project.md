@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 3D Surgical Medical Device Opportunity Assessment
-description: Identified and prioritized go-to-market strategy for a Fortune 500 medical device company in the 3D surgical space, including conducting competitive analysis
+title: IoTG Market Modeling
+description: Identified system architecture, attach, install, refresh, and growth rates for system groups across the healthcare, biopharmaceutical, industrial, and energy segments
 img: /assets/img/project1shunt.jpg
-importance: 6
+importance: 4
 category: work
 related_publications: false
 ---
