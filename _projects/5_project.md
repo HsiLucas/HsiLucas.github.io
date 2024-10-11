@@ -10,7 +10,7 @@ related_publications: false
 
 ## Project Overview
 
-A Fortune 500 medical device company is is building and commercializing a suite of digital surgery software solutions. Among these solutions is a software solution that creates a digitized roadmap for surgery, translating 2D scans into 3D models for pre-operative planning. This solution, combined with the company's suite of digital software solutions is intended to operate as a standalone offering, but also to seed the market in anticipation of other digital surgery platform(s). Upon launch, the software will compete in Asia-Pac with a number of regional players in the pre-operative planning space, with 2 primary competitors leading the Japanese market.
+A Fortune 500 medical device company is is building and commercializing a suite of digital surgery software solutions. Among these solutions is a software solution that creates a digitized roadmap for surgery, translating 2D scans into 3D models for pre-operative planning. This solution, combined with the client's suite of digital software solutions is intended to operate as a standalone offering, but also to seed the market in anticipation of other digital surgery platform(s). Upon launch, the software will compete in Asia-Pac with a number of regional players in the pre-operative planning space, with 2 primary competitors leading the Japanese market.
 
 This 2-month project overview details the research process to assess the competitive landscape and commercial opportunity for the software in the Japanese market:
 
@@ -38,7 +38,7 @@ My primary responsibilies included the creation of the Japanese interview script
 
 ## User Research
 
-As shown in the engagement timeline, the first step in the project was the creation of 9 project scope questions that covered questions the company sought to answer in their competitive landscape and commercial opportunity analysis. Afterwards, an interview guide was created in order to conduct 25 semi-structured interviews with key opinion leaders (KOLs).
+As shown in the engagement timeline, the first step in the project was the creation of 9 project scope questions that covered questions the client sought to answer in their competitive landscape and commercial opportunity analysis. Afterwards, an interview guide was created in order to conduct 25 semi-structured interviews with key opinion leaders (KOLs).
 
 The information gathered from the interviews were built upon one another to create a more well-informed interview guide as the project went on. Additionally, the insights on preferred brands and pricing packages helped create the estimated market share for 3D modeling medical devices in Japan. Participants ranged from Analysts, Allied Medical Staff, Surgeons, and Administrative sources.
 

@@ -10,7 +10,7 @@ related_publications: false
 
 ## Project Overview
 
-A Fortune 500 med tech company is evaluating new eye care segments as potential areas for new growth. They’re a global leader in vision and are looking to leverage their vision expertise to build capabilities within the glaucoma market as a potential area of growth. They lack any high-potential glaucoma assets in the pipeline, but the market is an interesting adjacency given its high growth, high unmet need, and alignment with the company’s capabilities and growth leads. In particular, they are interested in the opportunity to potentially leverage their polymer capabilities within the glaucoma space, but also understand the opportunity in the glaucoma surgical space.
+A Fortune 500 med tech company is evaluating new eye care segments as potential areas for new growth. The client is a global leader in vision and are looking to leverage their vision expertise to build capabilities within the glaucoma market as a potential area of growth. The client lacks any high-potential glaucoma assets in the pipeline, but the glaucoma market is an interesting adjacency given its high growth, high unmet need, and alignment with the company’s capabilities and growth leads. In particular, the client is interested in the opportunity to potentially leverage their polymer capabilities within the glaucoma space, but also understand the opportunity in the glaucoma surgical space.
 
 This 3-month project overview details the research process to evaluate the glaucoma opportunity and prioritize potential technology platforms:
 
@@ -27,9 +27,9 @@ This 3-month project overview details the research process to evaluate the glauc
 
 ## Responsibilities
 
-I was the sole researcher working on the Japanese market landscape, including analysis and interviews with stakeholders in Japanese. Additionaly, I collaborated with 2 other researchers working on other regions in the project. During the weekly updates and the final presentation, I was also responsible for presenting my section of the research directly to the client.
+I was the sole researcher working on the Japanese market landscape, including analysis and interviews with stakeholders in Japanese. Additionally, I collaborated with 2 other researchers working on other regions in the project. During the weekly updates and the final presentation, I was also responsible for presenting my section of the research directly to the client.
 
-My primary responsibilies included the creation of the Japanese interview script, reaching out to relevant external stakeholders, conducting interviews in both English and Japanese, analysis of quotes and secondary research, and the creation of presentation slides for my research.
+My primary responsibilities included the creation of the Japanese interview script, reaching out to relevant external stakeholders, conducting interviews in both English and Japanese, analysis of quotes and secondary research, and the creation of presentation slides for my research.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -42,9 +42,9 @@ My primary responsibilies included the creation of the Japanese interview script
 
 ## User Research
 
-As shown in the engagement timeline, the first step in the project was the creation of 9 project scope questions that covered questions the company sought to answer in their landscape assessment and glaucoma prioritization. Afterwards, an interview guide was created in order to conduct 9 semi-structured interviews with internal employees. These interviews were conducted to determine exisiting capabilities as well as thoughts on expanding into the glaucoma landscape.
+As shown in the engagement timeline, the first step in the project was the creation of 9 project scope questions that covered questions the client sought to answer in their landscape assessment and glaucoma prioritization. Afterwards, an interview guide was created in order to conduct 9 semi-structured interviews with internal employees. These interviews were conducted to determine existing capabilities as well as thoughts on expanding into the glaucoma landscape.
 
-The information gathered from this data was assigned to the relevant scope questions and used to create a more well-informed interview guide was external semi-structured interviews. This guide was then used to interview a total of 26 outside sources (12 in the United States, 5 in the United Kingdom, and 9 in APAC). Participants ranged from Ophthamlogists, Research Directors, and Professors across all 3 main regions.
+The information gathered from this data was assigned to the relevant scope questions and used to create a more well-informed interview guide was external semi-structured interviews. This guide was then used to interview a total of 26 outside sources (12 in the United States, 5 in the United Kingdom, and 9 in APAC). Participants ranged from Ophthalmologists, Research Directors, and Professors across all 3 main regions.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

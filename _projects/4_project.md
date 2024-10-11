@@ -43,7 +43,7 @@ My primary responsibilies included reaching out to relevant external stakeholder
 
 ## User Research
 
-As shown in the engagement timeline, the first step in the project was the creation of 8 project scope questions that covered questions the company sought to answer in their new customer segments for the Payor Sales division. Afterwards, an interview guide was created to conduct the semi-structured interviews with internal employees. These interviews were conducted to determine the thoughts, feelings, and ideas of the workers currently in the Payor Sales division.
+As shown in the engagement timeline, the first step in the project was the creation of 8 project scope questions that covered questions the client sought to answer in their new customer segments for the Payor Sales division. Afterwards, an interview guide was created to conduct the semi-structured interviews with internal employees. These interviews were conducted to determine the thoughts, feelings, and ideas of the workers currently in the Payor Sales division.
 
 The information gathered from this data helped inform the subsequent interview guide for external KOLs as well as shape how the project was tackled. This guide was then used to interview a total of 15 outside sources. Participants ranged from National Payors, Regional Payors, Federal Payors, Pharmaceutical Manufacturers, and Analysts.
 
