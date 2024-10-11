@@ -6,7 +6,7 @@ subtitle: UX Researcher
 
 profile:
     align: right
-    image: temp.jpg
+    image: prof_pic.jpg
     image_circular: false # crops the image to make it circular
     more_info: >
         <p>MSc, Human-Computer Interaction</p>

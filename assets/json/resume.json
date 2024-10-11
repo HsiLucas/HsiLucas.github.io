@@ -46,6 +46,7 @@
             "startDate": "2023-09-30",
             "endDate": "2024-09-30",
             "score": "3.8",
+            "url": "https://www.nottingham.ac.uk/pgstudy/course/taught/human-computer-interaction-msc",
             "courses": [
                 "Cognitive Ergonomics in Design",
                 "Design Ethnography",
@@ -64,6 +65,7 @@
             "startDate": "2017-09-30",
             "endDate": "2021-05-31",
             "score": "3.8",
+            "url": "https://as.nyu.edu/departments/psychology/undergraduate/program-requirements.html",
             "courses": [
                 "Cognitive Neuroscience",
                 "Advanced Psychological Statistics ",
@@ -84,6 +86,7 @@
     "publications": [
         {
             "name": "MSc Dissertation: Consumer Perceptions, Trust, and Implications on User Assisted AI Journalism",
+            "url": "https://hsilucas.github.io/projects/1_project/",
             "summary": "This study explores consumer perceptions and trust in AI-assisted journalism, focusing on the use of AI tools for tasks such as article writing, image generation, and credibility assessment. The research employed a mixed-methods approach, combining focus groups, provotype testing, and interviews to gather data from 30 participants in the United Kingdom. The findings reveal a cautious optimism towards AI's potential benefits, such as increased efficiency and the ability to identify newsworthy content. However, concerns persist regarding the potential homogenization of content, the perpetuation of bias, and the risk of misinformation."
         }
     ],
