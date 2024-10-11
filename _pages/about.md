@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: UX Researcher
+subtitle: UX Researcher 
 
 profile:
     align: right
