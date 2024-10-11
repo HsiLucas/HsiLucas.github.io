@@ -2,7 +2,7 @@
 layout: page
 title: Consumer Perceptions, Trust, and Implications on User Assisted AI Journalism
 description: Conducted extensive research to explore how AI can be leveraged to enhance consumer trust in journalism and how consumers trust and perceive AI-usage in journalism
-img: /assets/img/p1title.jpg
+img: /assets/img/p1title.png
 importance: 1
 category: work
 related_publications: false
