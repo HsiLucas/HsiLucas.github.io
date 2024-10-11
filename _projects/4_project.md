@@ -28,7 +28,7 @@ This 3-month project overview details the research process to assess the new and
 
 ## Responsibilities
 
-I was 1 of 3 researchers working on the project, including analysis and interviews with key opinion leaders (KOLs). Additionally, I took conducted research in the competitive landscape of branded and generic incumbent therapies across the relevant CNS and immunotherapy areas. This also included how comparable pharmaceutical companies are partnered with and selling to payors. During the weekly updates and the final presentation, I was also responsible for presenting my section of the research directly to the client.
+I was 1 of 3 researchers working on the project, including analysis and interviews with key opinion leaders (KOLs). Additionally, I conducted research in the competitive landscape of branded and generic incumbent therapies across the relevant CNS and immunotherapy areas. This also included how comparable pharmaceutical companies are partnered with and selling to payors. During the weekly updates and the final presentation, I was also responsible for presenting my section of the research directly to the client.
 
 My primary responsibilies included reaching out to relevant external stakeholders, conducting interviews, analysis of quotes and secondary research, and the creation of presentation slides for my research.
 

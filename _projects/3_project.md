@@ -43,7 +43,7 @@ My primary responsibilies included reaching out to relevant external stakeholder
 
 ## User Research
 
-As shown in the engagement timeline, the first step in the project was the creation of 6 project scope questions that covered questions the company sought to answer in their assessment of the IMC technology ecosystem. Afterwards, an interview guide was created in order to conduct the semi-structured interviews with KOLs. Participants ranged from Infastructure Engineers, Datacenter Engineers, Software Engineers, and more throughout the US.
+As shown in the engagement timeline, the first step in the project was the creation of 6 project scope questions that covered questions the company sought to answer in their assessment of the IMC technology ecosystem. Afterwards, an interview guide was created in order to conduct 45 semi-structured interviews with KOLs. Participants ranged from Analysts, IMC Vendors, Infastructure and Datacenter Engineers, and relevant Ecosystem sources (IoT, Metaverse, Industrial/Energy).
 
 ## Analysis
 
@@ -55,10 +55,10 @@ The interview process was structured to reveal thoughts within working engineers
 
 I got a chance to sharpen both my research and client presentation skills as well as perform work in the technology space. The research I conducted was in an unfamiliar technology sector and aided me in expanding my knowledge purview
 
--   Expanding Expertise in a New Technology Sector: Working on this project introduced me to the IMC space, which was a new and unfamiliar field. Conducting in-depth research on emerging technologies like IMC and related alternatives broadened my technical understanding and exposed me to cutting-edge innovations in real-time data processing
+-   **Expanding Expertise in a New Technology Sector**: Working on this project introduced me to the IMC space, which was a new and unfamiliar field. Conducting in-depth research on emerging technologies like IMC and related alternatives broadened my technical understanding and exposed me to cutting-edge innovations in real-time data processing
 
--   Client-Focused Research and Presentation: Presenting research findings directly to the client each week improved my communication skills, particularly in distilling complex technical concepts into actionable insights. This helped me gain confidence in sharing strategic recommendations with senior stakeholders
+-   **Client-Focused Research and Presentation**: Presenting research findings directly to the client each week improved my communication skills, particularly in distilling complex technical concepts into actionable insights. This helped me gain confidence in sharing strategic recommendations with senior stakeholders
 
--   Developing Interviewing Skills with Industry Experts: Conducting interviews with key opinion leaders in the technology space helped refine my interviewing techniques, as I had to ask highly technical questions to professionals with deep expertise
+-   **Developing Interviewing Skills with Industry Experts**: Conducting interviews with key opinion leaders in the technology space helped refine my interviewing techniques, as I had to ask highly technical questions to professionals with deep expertise
 
--   Analyzing Market and Competitive Landscape: I honed my skills in competitive analysis by identifying key players and emerging trends within the IMC ecosystem. This was crucial in helping the client understand the market dynamics and where their potential advantages lay
+-   **Analyzing Market and Competitive Landscape**: I honed my skills in competitive analysis by identifying key players and emerging trends within the IMC ecosystem. This was crucial in helping the client understand the market dynamics and where their potential advantages lay

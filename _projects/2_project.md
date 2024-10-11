@@ -14,11 +14,11 @@ A Fortune 500 med tech company is evaluating new eye care segments as potential 
 
 This 3-month project overview details the research process to evaluate the glaucoma opportunity and prioritize potential technology platforms:
 
-##### Global Glaucoma Surgical Landscape Assessment
+##### **Global Glaucoma Surgical Landscape Assessment**
 
 -   Assess the glaucoma therapy landscape, evaluate drivers and barriers to growth in the glaucoma surgical vision market
 
-##### Global Glaucoma Prioritization Strategy Assessment
+##### **Global Glaucoma Prioritization Strategy Assessment**
 
 -   Assess the glaucoma therapy landscape in the vision care glaucoma market(s)
 -   Understand the clinical and customer unmet need within glaucoma, with a specific focus on extended-release therapies and drug/delivery landscape
@@ -65,6 +65,6 @@ The interview process was structured to reveal unmet needs within the Japanese g
 
 I got a chance to sharpen both my research and client presentation skills as well as perform work in a foreign language. It was an invaluable experience in conducting research on a region where I was the only one assigned.
 
--   Engaging with Real Stakeholders: Conducting interviews with healthcare professionals, including ophthalmologists and KOLs, gave me direct exposure to real-world perspectives. I was able to tailor the interview questions to capture insights about the unmet needs and trends in the Japanese glaucoma space.
--   Cultural and Linguistic Adaptation: Working in the Japanese market required not just technical expertise, but also sensitivity to cultural and language differences. Conducting interviews in Japanese helped ensure more accurate and authentic responses. This experience emphasized the importance of understanding local market dynamics and adjusting research methods to fit the specific context.
--   Collaboration and Time Management: I worked closely with two other researchers covering different regions in different timezones. Ensuring that we maintained consistent communication and shared our findings in a timely manner was vital to the project's completion. Presenting my section of the research to the client during weekly updates and in the final presentation also highlighted the need for clear and concise communication to convey complex information effectively.
+-   **Engaging with Real Stakeholders**: Conducting interviews with healthcare professionals, including ophthalmologists and KOLs, gave me direct exposure to real-world perspectives. I was able to tailor the interview questions to capture insights about the unmet needs and trends in the Japanese glaucoma space.
+-   **Cultural and Linguistic Adaptation**: Working in the Japanese market required not just technical expertise, but also sensitivity to cultural and language differences. Conducting interviews in Japanese helped ensure more accurate and authentic responses. This experience emphasized the importance of understanding local market dynamics and adjusting research methods to fit the specific context.
+-   **Collaboration and Time Management**: I worked closely with two other researchers covering different regions in different timezones. Ensuring that we maintained consistent communication and shared our findings in a timely manner was vital to the project's completion. Presenting my section of the research to the client during weekly updates and in the final presentation also highlighted the need for clear and concise communication to convey complex information effectively.
