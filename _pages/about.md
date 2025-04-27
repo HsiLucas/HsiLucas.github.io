@@ -19,6 +19,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+# This Portfolio has been depreciated. Please refer to my new portfolio and resume at: <a href="https://lucashsing.netlify.app/">https://lucashsing.netlify.app/</a>
+
 I am a mixed-methods researcher with projects ranging from AI-Consumer Trust to 3D Surgical Medical Device Opportunity Assessment. I graduated with a MSc in Human Computer Interaction from the University of Nottingham in 2024 and a BA in Psychology from the New York University in 2021. I have worked as a Research Analyst for Accenture Strategy for 2 years. Additionally, I have experience in user research, growth strategy, market sizing, client-facing communication, and competitive strategy and analysis. This website displays case studies of some of my previous work as well as an overview of my dissertation.
 
 MSc Dissertation: "Consumer Perceptions, Trust, and Implications on User Assisted AI Journalism"
